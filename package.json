@@ -1,0 +1,18 @@
+{
+  "name": "re.xiaoyes.cn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "BJZ",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "description": "",
+  "dependencies": {
+    "vuepress-theme-reco": "^1.6.6"
+  }
+}
