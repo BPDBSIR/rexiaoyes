@@ -40,7 +40,7 @@ module.exports = [
   {
     text: "设计模式",
     icon: "reco-document",
-    link: "/design"
+    link: "/designPattern/"
   },
   {
     text: "大前端",

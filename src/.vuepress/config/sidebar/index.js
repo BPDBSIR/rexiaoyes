@@ -37,5 +37,27 @@ module.exports = {
       title: '多线程',
       collapsable: false,
     },
+  ],
+
+  "/designPattern/":[
+    {
+      title: "创建型模式",
+      collapsable: true,
+      children: [
+        "SingleCase"
+      ]
+    },
+    {
+      title: "结构型模式",
+      collapsable: true,
+      children: [
+      ]
+    },
+    {
+      title: "行为型模式",
+      collapsable: true,
+      children: [
+      ]
+    }
   ]
 }
